@@ -52,3 +52,5 @@ Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e me
 Caso tenha dúvidas ou sugestões, entre em contato:
 - ✉️ Email: brenosouzaemp@gmail.com
 - 🔗 GitHub: [Berllock](https://github.com/Berllock)
+- LinkedIn: [www.linkedin.com/in/breno-berllock](https://www.linkedin.com/in/breno-berllock/)
+
